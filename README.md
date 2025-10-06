@@ -7,7 +7,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture **Primary**, **Secondary**, and **Tertiary** layers:
 
-![Data Architecture](docs/Architecture_High_leve.png)
+![Data Architecture](docs/Architecture_High_level.png)
 
 This project involves:
 

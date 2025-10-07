@@ -57,7 +57,6 @@ data-warehouse-project/
 │   ├── secondary/                         # Scripts for cleaning and transforming data
 │   ├── tertiary/                           # Scripts for creating analytical models
 │
-├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository

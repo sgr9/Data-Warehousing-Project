@@ -1,0 +1,4 @@
+
+I have made it mostly relying on postgresql server and PgAdmin 
+since this project is made using postgresql it has some queries which will not work in other sql like tsql, mysql etc.
+so if one needs to run the exact queries then they can do so with using postgressql.
